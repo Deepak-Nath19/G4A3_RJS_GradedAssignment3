@@ -1,0 +1,17 @@
+.text-xs {
+	font-size: 0.65rem;
+}
+
+.text-sm {
+	font-size: 0.85rem;
+}
+
+.zero {
+	border-radius: 0;
+}
+
+.no-style,
+.no-style:hover {
+	text-decoration: none;
+	color: black;
+}
